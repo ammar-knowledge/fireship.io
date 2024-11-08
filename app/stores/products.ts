@@ -1,4 +1,19 @@
 export const products = {
+    'deno': {
+        id: 'deno',
+        price: 'price_1QIkM0BF7AptWZlctgYjiOTL',
+        amount: 20,
+    },
+    'linux': {
+        id: 'linux',
+        price: 'price_1PY9DmBF7AptWZlcpkAbgZlP',
+        amount: 20,
+    },
+    'stripe-saas': {
+        id: 'stripe-saas',
+        price: 'price_1OyecaBF7AptWZlc4nRFI3Ei',
+        amount: 20,
+    },
     'sveltekit': {
         id: 'sveltekit',
         price: 'price_1NNq9RBF7AptWZlcrbO92SfW',

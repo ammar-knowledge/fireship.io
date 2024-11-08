@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-06-27T11:11:30-09:00
+lastmod: 2024-10-23T11:11:30-09:00
 title: SvelteKit Full Course
 description: Learn how to build awesome full-stack apps with SvelteKit
 weight: 0
@@ -54,7 +54,9 @@ This course is intermediate level 🟦 and expects some familiarity with JavaScr
 
 ## When was the course last updated?
 
-<span class="tag tag-sm tag-pro">Updated June 27th, 2023</span> <span class="tag tag-sm tag-svelte">Svelte 4.0</span> <span class="tag tag-sm tag-firebase">Firebase 9+</span>
+<span class="tag tag-sm tag-pro">Updated October 23rd, 2024</span> <span class="tag tag-sm tag-svelte">SvelteKit 2</span> <span class="tag tag-sm tag-svelte">*Svelte 5.0</span><span class="tag tag-sm tag-firebase">Firebase 9+</span>
+
+*Note: Videos are recorded with Svelte 4, but the code is available in both Svelte 4 and 5 versions on GitHub. 
 
 ## How do I enroll?
 
