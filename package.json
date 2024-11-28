@@ -19,7 +19,7 @@
   "author": "Jeff Delaney",
   "license": "ISC",
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "@sveltejs/vite-plugin-svelte": "^5.0.1",
     "@tailwindcss/typography": "^0.5.4",
     "@tsconfig/svelte": "^2.0.1",
     "@types/vimeo__player": "^2.16.3",
@@ -38,13 +38,13 @@
     "js-confetti": "^0.10.2",
     "postcss": "^8.4.16",
     "sass": "^1.54.4",
-    "svelte": "^3.49.0",
-    "svelte-check": "^2.2.7",
-    "svelte-preprocess": "^4.10.7",
+    "svelte": "^5.2.10",
+    "svelte-check": "^4.1.0",
+    "svelte-preprocess": "^6.0.3",
     "tailwindcss": "^3.1.8",
     "tslib": "^2.3.1",
     "typescript": "^4.5.4",
-    "vite": "^3.0.5",
+    "vite": "^3.2.11",
     "youtube-player": "^5.5.2"
   }
 }
